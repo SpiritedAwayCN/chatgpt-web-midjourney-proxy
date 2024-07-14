@@ -201,7 +201,7 @@ export default {
     "server": "Server",
     "about": "About",
     "model": "Model",
-    "sysname": "AI Drawing"
+    "sysname": "PKU-DAIR"
   },
   "mjtab": {
     "chat": "Chat",
